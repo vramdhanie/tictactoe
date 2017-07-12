@@ -105,8 +105,8 @@ textarea {
 
 }
 .board {
-    width:75vw;
-    height:75vw;
+    width:50vw;
+    height:50vw;
     position:fixed;
     top:50%;
     left:50%;
@@ -114,8 +114,6 @@ textarea {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
-
-
 
 .row {
     display:-webkit-box;
