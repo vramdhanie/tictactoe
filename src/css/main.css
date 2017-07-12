@@ -98,8 +98,8 @@ textarea {
 
 }
 .board {
-    width:75vw;
-    height:75vw;
+    width:50vw;
+    height:50vw;
     position:fixed;
     top:50%;
     left:50%;
