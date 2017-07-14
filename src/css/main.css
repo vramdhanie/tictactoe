@@ -142,7 +142,9 @@ main {
     height:100%;
 }
 
-
+.occupied {
+    background-color: #899cb5;
+}
 
 
 
