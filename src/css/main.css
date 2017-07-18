@@ -123,6 +123,11 @@ textarea {
     height:100%;
     border-right: solid 3px #000000;
     cursor:pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    font-size: 36pt;
 }
 
 .cell:last-child {
